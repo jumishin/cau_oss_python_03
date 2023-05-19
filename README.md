@@ -4,6 +4,6 @@
 
 ## 2023-04-04
 Homework#2, simple calculator 구현
->>>>>>> 887c564ef33bee4ca2c88562165883c29b8d7e0d
+
 ## 2023-05-16
 Homework#4, figure 모듈 구현
